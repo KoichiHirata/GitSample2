@@ -18,5 +18,10 @@ class ViewController: UIViewController {
     func mymy() {
         
     }
+    
+    func mymy2() {
+        
+    }
+    
 }
 
