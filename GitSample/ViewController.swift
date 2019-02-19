@@ -23,5 +23,9 @@ class ViewController: UIViewController {
         
     }
     
+    func mymy3() {
+        
+    }
+    
 }
 
