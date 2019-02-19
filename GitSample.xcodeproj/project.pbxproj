@@ -13,6 +13,7 @@
 		8A32D194221BE2FD00D39145 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A32D193221BE2FD00D39145 /* Assets.xcassets */; };
 		8A32D197221BE2FD00D39145 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A32D195221BE2FD00D39145 /* LaunchScreen.storyboard */; };
 		8AB98205221C419700AB14B6 /* MyObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB98204221C419700AB14B6 /* MyObject.swift */; };
+		8AB98207221C612200AB14B6 /* NonGit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB98206221C612200AB14B6 /* NonGit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8A32D196221BE2FD00D39145 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A32D198221BE2FD00D39145 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8AB98204221C419700AB14B6 /* MyObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyObject.swift; sourceTree = "<group>"; };
+		8AB98206221C612200AB14B6 /* NonGit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NonGit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				8A32D18C221BE2FB00D39145 /* AppDelegate.swift */,
 				8A32D18E221BE2FB00D39145 /* ViewController.swift */,
 				8AB98204221C419700AB14B6 /* MyObject.swift */,
+				8AB98206221C612200AB14B6 /* NonGit.swift */,
 				8A32D190221BE2FB00D39145 /* Main.storyboard */,
 				8A32D193221BE2FD00D39145 /* Assets.xcassets */,
 				8A32D195221BE2FD00D39145 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				8A32D18F221BE2FB00D39145 /* ViewController.swift in Sources */,
 				8AB98205221C419700AB14B6 /* MyObject.swift in Sources */,
+				8AB98207221C612200AB14B6 /* NonGit.swift in Sources */,
 				8A32D18D221BE2FB00D39145 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
